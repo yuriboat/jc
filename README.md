@@ -3,7 +3,7 @@
 这里是「百合花船·教程」的文档库，主要存放文档本身，图片暂时不在这个库。大致与网站保持同步，同步周期为30分钟。
 
 ### 内容授权协议
-如无特别标注，由「百合花船·教程」编者自己编写、制作后在本站发布的内容均附带CC BY-SA 4.0协议（[Legal Code(English)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) / [供参考的简体中文译本](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-hans)）。非原创内容（含部分文本、部分图片等）按上游附带的授权协议使用，或视情况以「合理使用/Fair Use」之理由使用。
+如无特别标注，由「百合花船·教程」编者自己编写、制作后在本站发布的内容均附带CC BY-SA 4.0协议（[Legal Code(English)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) / [供参考的简体中文译本](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-hans)）。非原创内容（含部分文本、部分图片等）按上游附带的授权协议使用，或视情况以「合理使用/Fair Use」之理由使用。**向本仓库发起PR,视为同意提交内容附带CC BY-SA 4.0协议。**
 
 ### 同步说明
 （预定）与源服务器、Gitee同名仓库互为同步。本仓库理论上与源站双向同步，但出于性能考虑，有30分钟的同步周期，因此，在GitHub的更改合入main分支后，相关更改反映到网站最多需要30分钟，反之（指在网站直接做更改，相关更改反映到GitHub仓库）亦然。
