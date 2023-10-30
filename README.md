@@ -6,6 +6,7 @@
 如无特别标注，由「百合花船·教程」编者自己编写、制作后在本站发布的内容均附带CC BY-SA 4.0协议（[Legal Code(English)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) / [供参考的简体中文译本](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-hans)）。非原创内容（含部分文本、部分图片等）按上游附带的授权协议使用，或视情况以「合理使用/Fair Use」之理由使用。**向本仓库发起PR视为同意提交内容附带CC BY-SA 4.0协议。**
 
 ### 感谢以下贡献者
+（注：姓名栏显示的是各贡献者在GitHub设置的姓名（不是用户名/username），如贡献者未设置姓名，姓名栏会显示「Null」。
 <!-- readme: collaborators,contributors -start -->
 <table>
 <tr>
@@ -13,7 +14,7 @@
         <a href="https://github.com/ruaharico">
             <img src="https://avatars.githubusercontent.com/u/58129639?v=4" width="100;" alt="ruaharico"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>Harico Twilight</b></sub>
         </a>
     </td>
     <td align="center">
