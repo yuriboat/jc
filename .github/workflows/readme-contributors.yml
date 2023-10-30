@@ -13,4 +13,4 @@ jobs:
       - name: Contribute List
         uses: akhilmhdh/contributors-readme-action@lastest
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ secrets.CONTRIBUTORS_TOKEN }}
