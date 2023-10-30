@@ -16,3 +16,6 @@
 如果遇到贡献字数较多等情况，且你会用GitHub，你也可以fork一下然后自己更改，再发PR到main分支，等待审核通过。
 #### 在网站直接编辑
 请发邮件到jc.boat@yurier.net / 私信「百合研Yurier」 / 直接联系主编，写上来意、可以贡献哪方面的内容、即时通讯联系方式（如QQ、微信等）、喜欢使用本地账号还是通过GitHub登录。主编会联系你，沟通后续事宜。
+<a href="https://github.com/eryajf/learn-github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
+</a>
