@@ -7,6 +7,23 @@
 
 ### 感谢以下贡献者
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/ruaharico">
+            <img src="https://avatars.githubusercontent.com/u/58129639?v=4" width="100;" alt="ruaharico"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Natsunohikari">
+            <img src="https://avatars.githubusercontent.com/u/73895193?v=4" width="100;" alt="Natsunohikari"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
 
 ### 同步说明
