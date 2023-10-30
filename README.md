@@ -2,6 +2,12 @@
 「百合花船·教程」为百合研社团旗下服务与基础建设企划「百合花船」的子项目。（Powered by Wiki.js）
 这里是「百合花船·教程」的文档库，存放的是教程文档的源文件以及已经上传到网站服务器的图片（在/pictures）。大致与网站保持同步，同步周期为30分钟。
 
+### 感谢以下贡献者
+<a href="https://github.com/yuriboat/jc/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yuriboat/jc" />
+</a>
+
+
 ### 内容授权协议
 如无特别标注，由「百合花船·教程」编者自己编写、制作后在本站发布的内容均附带CC BY-SA 4.0协议（[Legal Code(English)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) / [供参考的简体中文译本](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-hans)）。非原创内容（含部分文本、部分图片等）按上游附带的授权协议使用，或视情况以「合理使用/Fair Use」之理由使用。**向本仓库发起PR,视为同意提交内容附带CC BY-SA 4.0协议。**
 
@@ -16,6 +22,4 @@
 如果遇到贡献字数较多等情况，且你会用GitHub，你也可以fork一下然后自己更改，再发PR到main分支，等待审核通过。
 #### 在网站直接编辑
 请发邮件到jc.boat@yurier.net / 私信「百合研Yurier」 / 直接联系主编，写上来意、可以贡献哪方面的内容、即时通讯联系方式（如QQ、微信等）、喜欢使用本地账号还是通过GitHub登录。主编会联系你，沟通后续事宜。
-<a href="https://github.com/eryajf/learn-github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
-</a>
+
