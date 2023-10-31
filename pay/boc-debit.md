@@ -2,7 +2,7 @@
 title: 介绍、办理与使用 - 中国银行Visa/万事达外币储蓄卡
 description: 
 published: true
-date: 2023-10-31T08:52:37.842Z
+date: 2023-10-31T09:54:51.546Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T04:42:50.429Z
@@ -12,225 +12,45 @@ dateCreated: 2023-10-31T04:42:50.429Z
 > **请注意！** 不同于本站的其他大部分教程，本文是附带CC BY-NC 4.0协议发布的，而不是CC BY-SA 4.0协议。这是因为本文的上游作者poplite附带的是CC BY-NC 4.0协议，如果不作另行说明直接拿过来，修改再发，会违反原则（再分发时如果去掉了「NC」组分是不行的）。所以，如要再分发与演绎本文，未经许可，请勿对本文做出（在CC 4.0系列协议中被定义为）「Commercial」的行为，否则可能会同时侵犯poplite和「百合花船·教程」编者的版权。
 {.is-info}
 
-> **感谢前辈**  本文基于poplite的「[跨境通VISA/万事达借记卡介绍与网上支付体验](https://poplite.xyz/post/2018/03/05/boc-debit-card-guide-for-online-payment.html)」进行优化。在此感谢poplite和其他持卡人的努力。
+> **感谢前辈！**  本文基于poplite的「[跨境通VISA/万事达借记卡介绍与网上支付体验](https://poplite.xyz/post/2018/03/05/boc-debit-card-guide-for-online-payment.html)」进行优化。在此感谢poplite和其他持卡人的努力。
 {.is-info}
        
 
 ![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/header.jpg)
 
-```
-做了多年的伸手党，博主决定要自己氪金购买各种ACG资源了。
-
-开始氪金之前，首先要搞到一张可以在日本网站上使用的银行卡。
-大部分境外购物网站只接受VISA、万事达之类的国际信用卡，不支持国内的银联卡。
-但是身为学生的博主很难申请到信用卡（也不愿意因为办信用卡而被查征信）。
-
-博主找到了一款VISA/万事达借记卡：[中国银行长城跨境通卡](http://www.boc.cn/bcservice/bc2/201704/t20170426_9329829.html)。
-这张卡既比国际信用卡容易申请到，又能像国际信用卡一样在境外网站上消费。  
-
-博主开了一张VISA卡，用卡已有三个多月，在Google Play、日本亚马逊等网站支付成功。
-
---- 2018年3月5日 23点14分15秒
-```
-
-------
-
-**更新栏：**
-
-**2023年8月8日更新：**
-
-1. 第二次更新 上海分行网申链接**（重大变动：卡片邮寄服务已取消，改为要求本人到上海开户行处领卡）**[（详情）](https://poplite.xyz/post/2018/03/05/boc-debit-card-guide-for-online-payment.html#1-上海分行公众号)
-2. 更新 中行开始提供**免费**的**实时短信交易通知**[（详情）](https://poplite.xyz/post/2018/03/05/boc-debit-card-guide-for-online-payment.html#交易提醒)
-3. 添加 “单位所属行业格式非法”的解决方法
-4. 添加 新版查询双授权记录的方法[（详情）](https://poplite.xyz/post/2018/03/05/boc-debit-card-guide-for-online-payment.html#8103327)
-
-**2023年7月15日更新：**
-
-1. 更新 上海分行网申链接：莫奈卡和非人哉卡~~（仅邮寄至上海地址）~~
-
-**2023年7月8日更新：**
-
-1. 更新 上海分行网申链接：莫奈卡
-2. 新增 指定线上商户绑卡消费返现活动
-3. 更新 已停发卡面：冬奥卡
-4. 移除 2022 年中银跨境GO返现活动
-
-**2022年4月11日更新：**
-
-1. **中国银行取消跨境通卡年费**
-    根据中行官网[通知](https://www.boc.cn/bcservice/bi2/202201/t20220125_20653786.html)，从 2022 年 2 月 1 日开始，不再收取所有中行借记卡年费（包括以往欠缴年费）以及小额账户管理费。减免范围包括跨境通卡。
-2. **注意！****部分卡片印刷的有效期有误**
-    多名讨论区网友发现，通过上海分行公众号申请、2022 年 2 月制卡的跨境通卡，印刷在卡面上的有效期**可能有误**
-    若卡面有效期为 12/27，那么正确的有效期应为 02/28。使用错误的有效期将导致无法正常网上用卡。
-3. 新增 冬奥蓝卡上海分行申请链接
-4. 新增 PayPal 付款币种提示
-
-**2022年1月20日更新：**
-
-1. 更新 上海分行网申链接：非人哉卡
-2. 更新 支持网站列表：Mora、DLsite、Pixiv 系（Booth、Fanbox 等）能够正常用卡
-3. 新增 新卡种信息：冬奥主题借记卡（雪板异形卡）
-4. 新增 2022 年中银跨境GO返现活动
-              
+中国银行（下称中行）的「长城跨境通国际借记卡」系列卡种在中国大陆地区的外标外币储蓄卡里，持卡人可能是最多的——相当长的一段时间内，这是中国大陆地区的外标外币储蓄卡里最好办、最好用的（虽然现在不一定好办了——可以看看「[用于线上国际支付的银行卡推荐及其办理方式](/pay/bank)」的其他选择）。下面详细介绍这个系列的卡，以及办理和使用方式。    
 
 ## 1. 介绍
 
-[长城跨境通国际借记卡](http://www.boc.cn/bcservice/bc2/201704/t20170426_9329829.html)是**中国银行**（[四大国有银行之一](https://zh.wikipedia.org/zh/四大银行#中国大陆)）发行的 **VISA / MasterCard 多币种外标借记卡**。不设申请门槛，支持网上申请和线下申请，适合学生等不具备申请信用卡条件的人员。
+[长城跨境通国际借记卡](http://www.boc.cn/bcservice/bc2/201704/t20170426_9329829.html)是**中国银行**（[四大国有银行之一](https://zh.wikipedia.org/zh/四大银行#中国大陆)）发行的 **VISA / MasterCard 多币种外标借记卡**。**不设申请门槛**，办理条件与在中行办理银联储蓄卡是相同的。请注意，**本卡没有年费！如果有其他人（包括中行员工）告诉你有，那是他们的知识和经验没有及时更新。**
+优点：①是真正的储蓄卡，不是0额度信用卡，不上信报；②是多币种卡，支持美元、欧元、日元、港币等 19 种外币，购汇更直观；③除ATM取现费之外，本卡在购汇和消费时，**中行本身**不收取任何手续费（在境外线下使用时，请注意本卡**每月只免收首笔境外 ATM 取现和余额查询手续费。** 第二笔开始会收手续费！）；④支持非接：如果到港澳台地区和国外旅行，你可以用这张卡「挥卡」支付（记得开启小额免密）。
 
-<details>
-
-<summary>常见误区</summary>
-
-
-
-</details>
-
-------
-
-**优点：**
-
-1. **真正的国际借记卡**
-    不上信报，不是某些银行以借记卡之名发行的零额度信用卡。
-2. **不设申请门槛，支持网上申请和线下申请**
-    只需本人有效身份证件，无需收入证明等财力证明材料。
-    中行上海分行微信公众号提供网上申请通道。
-3. **支持 19 种外币，消费不收取任何手续费**
-    消费或 ATM 取现支持直接使用美元、欧元、日元、港币等[ 19 种外币](https://poplite.xyz/post/2018/03/05/boc-debit-card-guide-for-online-payment.html#19种外币)，无需货币转换。
-    免收货币转换费、跨境手续费等消费手续费。**每月免收首笔境外 ATM 取现和余额查询手续费。**
-4. **EMV 芯片卡，支持非接触功能**
-    国内首张搭载 EMV 芯片标准的国际借记卡，属于磁条芯片复合卡。
-    支持 Visa payWave 和 MasterCard Contactless 非接触式支付功能。
-5. **各种卡权益和银行优惠活动**
-    可以享受卡组织提供的卡权益和参与银行举办的各种优惠活动。
-
-------
-
-**缺点：**
-
-1. ~~存在年费~~
-    ~~每年收取最低 RMB ¥10，最高 RMB ¥50。免收首年年费。~~**2022 年 2 月开始不再收取年费。**
-2. **不设人民币账户**
-    需要手动购汇，将人民币兑换成外币。
-3. **使用上存在诸多不便**
-    使用跨境通卡的时候经常需要避开许多大大小小的坑。相比信用卡，用卡较为不方便。
-4. **网点经常缺少卡板**
-    导致线下办卡以及申请不支持网申的卡片十分困难。
+缺点：①消费需要预先存钱，用人民币换成外币——虽然用手机可以购汇，但不如（有额度的）信用卡每月统一还款一次或者干脆开通自动还款来得便捷；②如果你想直接**换日元等非美元币种**，要记得存够你打算消费的金额的102%，消费时先扣102%，2%在「入账」后返还，详见下文；③要找到有现成的卡给你办的网点，有点难度，要靠运气；④储蓄卡与信用卡还是有点差别，因此部分商户可能不支持储蓄卡（但**日本的购物网站**大部分是支持的），或者出点小问题。
 
 ## 2. 卡种列表
+仅收录仍在发行且不限办卡人群的卡种。已停止发行的、拟发但未发的和限制办卡人群的卡种，请参考本文的上游（[跨境通VISA/万事达借记卡介绍与网上支付体验](https://poplite.xyz/post/2018/03/05/boc-debit-card-guide-for-online-payment.html#1-%E4%BB%8B%E7%BB%8D)）。
 
 **普通卡种：**
 
-|                           卡片简称                           |         卡组织 /  卡等级         |       年费        |      申请方式       | 备注                                                         |
-| :----------------------------------------------------------: | :------------------------------: | :---------------: | :-----------------: | :----------------------------------------------------------- |
-| **VISA 标准金** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold.jpg) |       **VISA**   金卡 Gold       | 免年费 ~~RMB¥10~~ | **线下**   ~~网申~~ |                                                              |
-| **VISA 标准白** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum.jpg) |    **VISA**   白金卡 Platinum    | 免年费 ~~RMB¥20~~ | **线下**   ~~网申~~ |                                                              |
-| **MC 标准金** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold.jpg) |    **MasterCard**   金卡 Gold    | 免年费 ~~RMB¥10~~ | **线下**   ~~网申~~ |                                                              |
-| **MC 标准白** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum.jpg) | **MasterCard**   白金卡 Platinum | 免年费 ~~RMB¥20~~ | **线下**   ~~网申~~ |                                                              |
-| **非人哉卡**![:earth_asia:](https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png) [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai.jpg) |    **MasterCard**   金卡 Gold    | 免年费 ~~RMB¥10~~ | **线下**   ~~网申~~ | [宣传页面](https://mp.weixin.qq.com/s/3OI4e5i_TZ_DugD4bZsXlg) 两种卡面（小玉卡、白泽卡） |
-| **冬奥卡** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-signature-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-signature.jpg) |    **VISA**  御玺卡 Signature    | 免年费 ~~RMB¥50~~ | ~~线下~~   ~~网申~~ | [宣传页面](https://mp.weixin.qq.com/s?__biz=MjM5MzI4MzQ2MA==&mid=2714525566&idx=2&sn=b058e6b91136b7e59e5ea9a9811a906e)   两种卡面（蓝卡、黑卡）  **可能由于版权到期已停发** |
-| **冬奥卡（异形版）** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-signature-2-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-signature-2.jpg) |    **VISA**  御玺卡 Signature    | 免年费 ~~RMB¥50~~ | ~~线下~~   ~~网申~~ | [宣传页面](https://mp.weixin.qq.com/s/3OI4e5i_TZ_DugD4bZsXlg)   收取额外工本费 RMB¥ 50   **可能由于版权到期已停发** |
-| **莫奈卡 / 世界卡**![:earth_asia:](https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png) [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world.jpg) |   **MasterCard** 世界卡 World    | 免年费 ~~RMB¥50~~ | ~~线下~~   **网申** | [宣传页面](https://mp.weixin.qq.com/s/WJTu-w_cly4c8F5Pn_08Eg) |
-| **选校帝卡** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-xxd-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-xxd.jpg) |    **VISA** 御玺卡 Signature     | 免年费 ~~RMB¥50~~ | **线下**   ~~网申~~ | [宣传页面](https://mp.weixin.qq.com/s/QipvPOLRCP58YmY5GNWOsA) 免前三年年费 |
-
-**注：**2022 年 2 月开始，中行不再收取跨境通卡年费。
-
-**特殊卡种：**
-
-|                           卡片简称                           |            卡组织 卡等级            |  年费  |  申请方式  |                             备注                             |
-| :----------------------------------------------------------: | :---------------------------------: | :----: | :--------: | :----------------------------------------------------------: |
-| **CSC卡 / 公派留学专用卡** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/boc-csc-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/boc-csc.jpg) | VISA / MasterCard   白金卡 Platinum | 免年费 | 不对外发卡 | [中行官网介绍](https://www.boc.cn/bcservice/bc2/201811/t20181116_14927284.html) 国家留学基金委（CSC） 面向[国家公派留学人员](https://www.csc.edu.cn/chuguo)发行的定制卡 |
-
-**取消或者推迟发行：**
-
-|      卡片简称      |       卡组织 卡等级       | 年费 | 申请方式 | 备注 |
-| :----------------: | :-----------------------: | :--: | :------: | :--: |
-| **莫奈卡（竖版）** | MasterCard   世界卡 World | 不明 |    无    |      |
-
-![:earth_asia:](https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png)：支持网上申请
-
-跨境通卡至今一共发行了多达 10 种卡面，包括 4 种标准卡、6 种联名卡和特殊卡面。
-
-提示：**如果长期使用，推荐申请 MasterCard 卡**，因为万事达相对重视跨境通卡，优惠活动数量和力度经常比 VISA 多。
-
-<details>
-
-<summary>① 标准卡种</summary>
+|                           卡片简称与样图                           |         卡组织 /  卡等级         |      申请方式 &  备注                                                         |
+| :----------------------------------------------------------: | :------------------------------: | :-----------------: | 
+| **VISA 标准金** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold.jpg) |       **VISA**   金卡 Gold       |线下办理|  
+| **VISA 标准白** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum.jpg) |    **VISA**   白金卡 Platinum    |线下办理| 
+| **MC 标准金** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold.jpg) |    **MasterCard**   金卡 Gold    | 线下办理    
+| **MC 标准白** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum.jpg) | **MasterCard**   白金卡 Platinum |线下办理|       
+| **非人哉卡** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai.jpg) |    **MasterCard**   金卡 Gold    |上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。有两种卡面（小玉卡、白泽卡）。 |
+| **莫奈卡 / 世界卡**![![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world.jpg) |   **MasterCard** 世界卡 World    | 上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。|
 
 
-
-</details>
-
-<details>
-
-<summary>② 莫奈主题名画卡</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>③ 冬奥主题借记卡</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>④ 非人联名借记卡</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>⑤ 选校帝联名借记卡</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>⑥ 国家公派留学生专用国际借记卡（中行版）</summary>
-
-
-
-</details>
-
-<details>
-
-<summary> 疑似推迟或取消发行的卡种</summary>
-
-
-
-</details>
 
 ## 3. 申卡指南
-
-**① 申卡前的准备工作：**
-
-1. **年满 16 周岁**
-    按照中行规定，未满 16 周岁人士必须在监管人陪同下在网点申卡。未满 16 周岁不支持网申。
-
-2. 持有
-
-   中行发行的银联借记卡
-
-   ，满足：    
-
-   - 持卡人为本人（本人名下）
-   - 属于 I 类账户（一类卡）
-
-3. 已开通**中行手机银行**
-    用于购汇、转账和查看交易明细。
-
-4. 持有的**中行实体借记卡数量必须小于 4 张**
-    中行系统限制，每人最多只能持有 4 张实体借记卡（包括银联借记卡和 VISA / MasterCard 借记卡）。
-
-------
+### 申请前
+**申请前，请确保你已满足以下条件，或者正在满足。**
+1. **年满 16 周岁**：未满 16 周岁人士必须在监管人陪同下在网点申卡，不可在网上申请。（如果你确有办卡需求，也许让家长开一张信用卡的附属卡给你使用更方便）
+2. （非必要，但强烈建议！看下文你就知道了）持有由**中国银行**发行的，**在你本人名下的**，可以正常使用的银联 **I 类/一类** 储蓄卡。或者，如果你持有由**中国银行**提供金融服务的**社会保障卡（社保卡）**，也可以。
+如果你不知道自己的中行储蓄卡是否是一类卡，请打开「中国银行」App并登录后，点击首页「账户管理」，即可看到I类账户/Ⅱ类账户。如果是Ⅱ类账户，请到网点升级为一类，因为在中行系统，只有一类卡和社保卡才能在手机购汇，如果没有这两种卡，每次「充值」都需要到中行线下办理，费时费力。
+社保卡方面，可看社保卡的人像面，有中行Logo说明由**中国银行**提供金融服务。
+3. 持有的**中行实体储蓄卡数量必须小于 4 张**：在中行，每人最多只能持有 4 张实体储蓄卡。如果你的持卡数量超了，请先注销多余的卡（一般只留一张 I 类/一类 卡即可；如果你是为了「集卡」而不经意间办得太多，可到中行网点不带相关卡片做“挂失”+销户以保留卡片）。
 
 **② 申卡后的准备工作：**
 
@@ -251,17 +71,16 @@ dateCreated: 2023-10-31T04:42:50.429Z
     仅限部分开卡不足 3 天的新卡。具体原因不明。
 2. **如果长时间不用卡（一年以上），卡片余额必须不为零**
 
-------
 
 **③ 申请卡片**
 
 目前支持网上申请（上海分行公众号~~和微银行公众号~~）和网点线下申请。
+（待补邀请办卡二维码）
 
 |            申请方式             |         （预计）申卡时间          |     申请卡种     | 进度查询 |    激活 / 销卡方式    |    开户行    |              备注               |
 | :-----------------------------: | :-------------------------------: | :--------------: | :------: | :-------------------: | :----------: | :-----------------------------: |
 |          **网点线下**           | **30 分钟～2 小时** （排队+办卡） |   以标准卡为主   | **现场** |       人工柜台        | **办卡网点** | 大部分网点 卡板不足或者缺少卡板 |
 |       **上海分行公众号**        |     2～4周 （审核+制卡+邮寄）     |       三种       |  **有**  | **自助 （智能柜台）** |  上海市分行  | 非预制卡 （卡面刻有持卡人姓名） |
-| ~~**微银行公众号**~~ （已关闭） |  ~~一般超过一个月 （因地而异）~~  | ~~**所有卡种**~~ |  ~~无~~  |     ~~人工柜台~~      | ~~**可选**~~ |         申请通道已关闭          |
 
 ------
 
@@ -348,19 +167,6 @@ dateCreated: 2023-10-31T04:42:50.429Z
 
 上面两张卡片博主仍然正常使用中。
 
-------
-
-#### 3. ~~微银行公众号~~（已关闭）
-
-**微银行公众号借记卡申请通道已关闭** 。官方给出的理由是升级维护，恢复时间未知。
-
-<details>
-
-<summary>微银行公众号申卡</summary>
-
-
-
-</details>
 
 ## 4. 购汇、交易提醒
 
