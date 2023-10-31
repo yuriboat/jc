@@ -2,7 +2,7 @@
 title: 介绍、办理与使用 - 中国银行Visa/万事达外币储蓄卡
 description: 
 published: true
-date: 2023-10-31T13:37:57.192Z
+date: 2023-10-31T13:40:50.672Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T04:42:50.429Z
@@ -44,7 +44,7 @@ dateCreated: 2023-10-31T04:42:50.429Z
 | **VISA 标准白** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum.jpg) |    **VISA**   白金卡 Platinum    |线下办理| 
 | **MC 标准金** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold.jpg) |    **MasterCard**   金卡 Gold    | 线下办理    
 | **MC 标准白** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum.jpg) | **MasterCard**   白金卡 Platinum |线下办理|       
-| **非人哉卡** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai.jpg) |    **MasterCard**   金卡 Gold    |上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。有两种卡面（小玉卡、白泽卡）。 |
+| **非人哉卡** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai.jpg) |    **MasterCard**   金卡 Gold    |上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。有两种卡面（左边是白泽卡，右边是小玉卡）。 |
 | **莫奈卡 / 世界卡**![![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world.jpg) |   **MasterCard** 世界卡 World    | 上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。|
 
 
@@ -53,7 +53,7 @@ dateCreated: 2023-10-31T04:42:50.429Z
 ### 申请前
 **申请前，请确保你已满足以下条件，或者正在满足。**
 1. **年满 16 周岁**：未满 16 周岁人士必须在监管人陪同下在网点申卡，不可在网上申请。（如果你确有办卡需求，也许让家长开一张信用卡的附属卡给你使用更方便）
-2. （非必要，但强烈建议！看下文你就知道了）持有由**中国银行**发行的，**在你本人名下的**，可以购汇在的银联 **I 类/一类** 储蓄卡。或者，如果你持有由**中国银行**提供金融服务的**社会保障卡（社保卡）**，也可以。
+2. （非必要，但强烈建议！看下文你就知道了）持有由**中国银行**发行的，**在你本人名下的**，可以购汇的银联 **I 类/一类** 储蓄卡。或者，如果你持有由**中国银行**提供金融服务的**社会保障卡（社保卡）**，也可以。
 - 如果没有这两种卡，每次「充值」都需要到中行线下办理，费时费力。
 - 如何确定自己的卡是可以购汇的一类卡/社保卡？打开「中国银行」App并登录后，点击首页「账户管理」，先确保你的卡已经绑好了（没绑的请添加），然后搜索「结汇购汇」，结汇和购汇随便选一个，倒计时走完之后点下一步，点击「交易账户」，看看你的卡是否在列表里。如果没有，说明你的卡无法购汇，请参考附属教程解决：**[如何办理中国银行一类卡，或从二类升到一类？](/pay/boc-debit-extra)
 - 社保卡方面，可看社保卡的人像面，有中行Logo说明由**中国银行**提供金融服务。
