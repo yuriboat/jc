@@ -2,7 +2,7 @@
 title: 介绍、办理与使用 - 中国银行Visa/万事达外币储蓄卡
 description: 
 published: true
-date: 2023-10-31T17:11:14.274Z
+date: 2023-10-31T17:15:24.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T04:42:50.429Z
