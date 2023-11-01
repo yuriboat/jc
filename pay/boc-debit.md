@@ -2,13 +2,11 @@
 title: 介绍、办理与使用 - 中国银行Visa/万事达外币储蓄卡
 description: 
 published: true
-date: 2023-11-01T03:25:07.818Z
+date: 2023-11-01T04:05:50.840Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T04:42:50.429Z
 ---
-
-[toc]
 
 > 本文尚未完工。待补快速跳转。
 > **请注意！** 不同于本站的其他大部分教程，本文是附带CC BY-NC 4.0协议发布的，而不是CC BY-SA 4.0协议。这是因为本文的上游作者poplite附带的是CC BY-NC 4.0协议，如果不作另行说明直接拿过来，修改再发，会违反原则（再分发时如果去掉了「NC」组分是不行的）。所以，如要再分发与演绎本文，未经许可，请勿对本文做出（在CC 4.0系列协议中被定义为）「Commercial」的行为，否则可能会同时侵犯poplite和「百合花船·教程」编者的版权。
@@ -22,11 +20,11 @@ dateCreated: 2023-10-31T04:42:50.429Z
 > **警告：** 请勿出于任何理由向他人出借与售卖银行卡（具体表现为借出银行卡本体、把卡号/有效期/CVV2中任两个或以上的信息直接告知给他人、卖出银行卡本体或卡号/有效期/CVV2中任两个或以上的信息、协助进行其他非正常消费）。因为这些行为对银行账户有巨大风险；如相关卡片被用于诈骗等违法用途，出借/借入和售卖/购买者双方都违法！
 {.is-warning}
 
-全文较长，可配合目录来阅读。
+全文较长，可配合目录在电脑端阅读，手机端请善用页面搜索。
 
-![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/header.jpg)
-
-中国银行（下称中行）的「长城跨境通国际借记卡」系列卡种在中国大陆地区的外标外币储蓄卡里，持卡人可能是最多的——相当长的一段时间内，这是中国大陆地区的外标外币储蓄卡里最好办、最好用的（虽然现在不一定好办了——可以看看「[用于线上国际支付的银行卡推荐及其办理方式](/pay/bank)」的其他选择）。下面详细介绍这个系列的卡，以及办理和使用方式。    
+中国银行（下称中行）的「长城跨境通国际借记卡」系列卡种在中国大陆地区的外标外币储蓄卡里，持卡人可能是最多的——相当长的一段时间内，这是中国大陆地区的外标外币储蓄卡里最好办、最好用的（虽然现在不一定好办了——可以看看「[用于线上国际支付的银行卡推荐及其办理方式](/pay/bank)」的其他选择）。
+笔者自己的第一张外币储蓄卡就是这种卡，用了很长一段时间。
+下面详细介绍这个系列的卡，以及办理和使用方式。    
 
 ## 1. 介绍
 
@@ -49,7 +47,19 @@ dateCreated: 2023-10-31T04:42:50.429Z
 包括但不限于Google Pay（不是Google Play商店！！！）、Google Pay Send、App Store、Spotify（直接绑卡时）等。
 </details>
 
-优点：①是真正的储蓄卡，不是0额度信用卡，不上信报；②是多币种卡，支持美元、欧元、日元、港币等 19 种外币，购汇更直观；③除ATM取现费之外，本卡在购汇和消费时，**中行本身**不收取任何手续费（在境外线下使用时，请注意本卡**每月只免收首笔境外 ATM 取现和余额查询手续费。** 第二笔开始会收手续费！）；④支持非接：如果到港澳台地区和国外旅行，你可以用这张卡「挥卡」支付（记得开启小额免密）。
+优点：①是真正的储蓄卡，不是0额度信用卡，不上信报；②是多币种卡，支持美元、欧元、日元、港币等 19 种外币，购汇更直观；③本卡在**购汇和刷卡消费**时，中行**不收取任何手续费**；④境外线下可刷：存好外币之后，在港澳台地区和国外可以刷卡消费，不用担心境外线下商户不支持微信/支付宝/银联卡，且在境外刷卡时中行不收手续费（不过，在境外**线下实体店**刷卡时，请注意不要掉进卡组织挖的DCC的坑，这个坑是储蓄卡和信用卡都有 // 另：在境外线下ATM机查询余额和取款时，每月只免收首笔境外 ATM 取现和 ATM 余额查询手续费，第二笔开始会收手续费）。
+<details>
+<summary><strong>扩展阅读：线下实体店刷卡时的「DCC」大坑 以及 如何避开</strong></summary>
+DCC，全称Dynamic Currency Conversion，也就是把当地货币实时转换为你的卡片的记账货币，理论上来说是刷卡当时就转换货币，听上去好像是挺好的一个功能，但是 DCC 的汇率通常不太合算，还有手续费（储蓄卡会直接扣除，信用卡会记到账单里），至于DCC的原理，有兴趣的可以自行去了解。在绝大多数国家和地区的货币汇率相对稳定的背景下，我们完全没有必要选择同意DCC。
+
+DCC只存在于Visa和Mastercard的卡片中，其他卡组织没有DCC。
+  
+**请注意，免税店用美元结算是正常的，此时不要要求用当地货币，否则反而会被DCC。**
+
+在结账刷卡前，请明确与收银员说明「No DCC」「请以（当地货币）结账」。如果收银员让你选择甚至是推荐转换成人民币/美元，不要转！！刷卡后会有一个签购单，请务必阅读签购单，确保上面只印了商家当地的货币，并且没有一大段英文说货币转换的事情（有的话，说明被DCC了）！！如果签购单（收银员准备收走的那张）有货币选择，请在当地货币处打「X」（X代表你的选择，不是对勾）！！
+如果POS机无法调整DCC设置（强制DCC）或者收银员实在不会操作，请在给收银的签购单的美元/人民币金额附近写上NO USD/NO CNY，然后再签名，同时拍照。在回国后，向银行反馈，退回被多收的款项。
+</details>
+
 
 缺点：①消费需要预先存钱，用人民币换成外币——虽然用手机可以购汇，但不如（有额度的）信用卡每月统一还款一次或者干脆开通自动还款来得便捷；②如果你想直接**换日元等非美元币种**，要记得存够你打算消费的金额的102%，消费时先扣102%，2%在「入账」后返还，详见下文；③要找到有现成的卡给你办的网点，有点难度，要靠运气；④储蓄卡与信用卡还是有点差别，因此部分商户可能不支持储蓄卡（但**日本的购物网站**大部分是支持的），或者出点小问题；⑤购汇有时间限制，只能在北京时间每日7:00-23:00操作，如果要在在北京时间每日23:00到次日7:00买东西，得提前购汇，要不然有钱花不了。
 
@@ -58,14 +68,14 @@ dateCreated: 2023-10-31T04:42:50.429Z
 
 卡等级排位（越大越高级）：金卡<白金卡<世界卡
 
-|                           卡片简称与样图                           |         卡组织 /  卡等级         |      申请方式 &  备注                                                         |
+|                           样图                           |         卡组织<br />卡等级         |      申请方式 &  备注                                                         |
 | :----------------------------------------------------------: | :------------------------------: | :-----------------: | 
-| **VISA 标准金** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold.jpg) |       **VISA**   金卡 Gold       |线下办理|  
-| **VISA 标准白** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum.jpg) |    **VISA**   白金卡 Platinum    |线下办理| 
-| **MC 标准金** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold.jpg) |    **MasterCard**   金卡 Gold    | 线下办理    
-| **MC 标准白** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum.jpg) | **MasterCard**   白金卡 Platinum |线下办理|       
-| **非人哉卡** [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai.jpg) |    **MasterCard**   金卡 Gold    |上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。有两种卡面（左边是白泽卡，右边是小玉卡）。 |
-| **莫奈卡 / 世界卡**![![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world.jpg) |   **MasterCard** 世界卡 World    | 上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。|
+|  [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold.jpg) |       **VISA** <br />  金卡 Gold       |线下办理|  
+|  [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum.jpg) |    **VISA** <br />  白金卡 Platinum    |线下办理| 
+| [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold.jpg) |    **MasterCard** <br />  金卡 Gold    | 线下办理    
+| [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum.jpg) | **MasterCard**  <br /> 白金卡 Platinum |线下办理|       
+| **非人哉** <br />[![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai.jpg) |    **MasterCard**  <br /> 金卡 Gold    |上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。有两种卡面（左边是白泽卡，右边是小玉卡）。 |
+| **莫奈卡 / 世界卡**![![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world.jpg) |   **MasterCard** <br />世界卡World    | 上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。|
 
 
 
