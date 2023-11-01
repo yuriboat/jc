@@ -2,7 +2,7 @@
 title: 介绍、办理与使用 - 中国银行Visa/万事达外币储蓄卡
 description: 
 published: true
-date: 2023-11-01T04:05:50.840Z
+date: 2023-11-01T04:08:00.569Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T04:42:50.429Z
@@ -72,10 +72,10 @@ DCC只存在于Visa和Mastercard的卡片中，其他卡组织没有DCC。
 | :----------------------------------------------------------: | :------------------------------: | :-----------------: | 
 |  [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-gold.jpg) |       **VISA** <br />  金卡 Gold       |线下办理|  
 |  [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/visa-platinum.jpg) |    **VISA** <br />  白金卡 Platinum    |线下办理| 
-| [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold.jpg) |    **MasterCard** <br />  金卡 Gold    | 线下办理    
-| [![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum.jpg) | **MasterCard**  <br /> 白金卡 Platinum |线下办理|       
-| **非人哉** <br />[![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai.jpg) |    **MasterCard**  <br /> 金卡 Gold    |上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。有两种卡面（左边是白泽卡，右边是小玉卡）。 |
-| **莫奈卡 / 世界卡**![![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world-m.jpg)](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world.jpg) |   **MasterCard** <br />世界卡World    | 上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。|
+| ![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-gold-m.jpg) |    **MasterCard** <br />  金卡 Gold    | 线下办理    
+| ![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-platinum-m.jpg) | **MasterCard**  <br /> 白金卡 Platinum |线下办理|       
+| **非人哉** <br />![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-shanghai-m.jpg) |    **MasterCard**  <br /> 金卡 Gold    |上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。有两种卡面（左边是白泽卡，右边是小玉卡）。 |
+| **莫奈卡 / 世界卡**![img](https://poplite.xyz/images/2018/03/05/boc-debit-card-guide-for-online-payment/mc-world-m.jpg) |   **MasterCard** <br />世界卡World    | 上海地区可在下文提到的申请入口申请后等待通知，到线下领卡。非上海地区要看运气。|
 
 
 
