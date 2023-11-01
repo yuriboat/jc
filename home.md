@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2023-11-01T13:59:00.963Z
+date: 2023-11-01T13:59:19.698Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T08:09:56.088Z
@@ -29,9 +29,9 @@ dateCreated: 2023-10-26T08:09:56.088Z
 infohow:如何寻找信息与资讯
 pay:海外支付方式
 physical:实体物品购买
-digital:纯线上消费（数字商品等）与支持作者
+digital:纯线上消费与支持作者
 logitics:物流、海关与税费
-exp:开团经验总结与服务推广
+exp:开团经验总结
 
 > 「百合花船」企划的其他项目
 > [「百合花船」企划官网](https://www.yuriboat.cn)
