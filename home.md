@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2023-10-30T14:21:43.601Z
+date: 2023-11-01T13:59:00.963Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T08:09:56.088Z
@@ -27,7 +27,7 @@ dateCreated: 2023-10-26T08:09:56.088Z
 
 综合(about:1+base:3)
 infohow:如何寻找信息与资讯
-pay:海外支付方式介绍
+pay:海外支付方式
 physical:实体物品购买
 digital:纯线上消费（数字商品等）与支持作者
 logitics:物流、海关与税费
