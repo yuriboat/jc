@@ -2,13 +2,12 @@
 title: 关于虎穴系网站
 description: 
 published: true
-date: 2023-11-02T13:00:14.576Z
+date: 2023-11-02T13:01:43.903Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T13:23:35.070Z
 ---
 
-# 关于虎穴系网站
 > 本文WIP：「下文」「上文」跳转
 > **编者：** Harico
 > 本文编写的背景是，虎穴系网站不是直接支持日本国外银行卡的，需要通过Tora Coin实现支付；并且，「魔法集市」本来提供了Tora Coin兑换码的代购（虽然汇率一般），但由于自身变故，魔法集市暂停了Tora Coin的代购。
