@@ -2,13 +2,13 @@
 title: 介绍、办理与使用 - 中国银行Visa/万事达外币储蓄卡
 description: 
 published: true
-date: 2023-11-02T09:01:54.960Z
+date: 2023-11-02T09:06:18.292Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T04:42:50.429Z
 ---
 
-> 本文尚未完工。WIP：补充/pay/boc-debit-extra 和 /phtsical/tora 2篇关联文章。
+> 本文尚未完工。WIP：补充/pay/boc-debit-extra 和 /physical/tora 2篇关联文章。
 > **请注意！** 不同于本站的其他大部分教程，本文附带CC BY-NC 4.0协议发布，这是因为本文的上游作者poplite发布原文时附带的是CC BY-NC 4.0协议，与本站主要使用的协议（CC BY-SA 4.0）不兼容，所以我们将本文的授权协议设置为与上游一致的CC BY-NC 4.0协议。
 > **感谢前辈！**  本文以poplite的「[跨境通VISA/万事达借记卡介绍与网上支付体验](https://poplite.xyz/post/2018/03/05/boc-debit-card-guide-for-online-payment.html)」为底本。我们结合编者Harico和互联网上其他持卡人的经验分享，对底本进行了不少的调整、优化和补充，产生此文。在此感谢poplite等持卡人的分享。
 {.is-info}
