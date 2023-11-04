@@ -2,14 +2,14 @@
 title: 介绍、办理与使用 - 运通人民币储蓄卡
 description: 
 published: true
-date: 2023-11-04T11:55:21.963Z
+date: 2023-11-04T12:00:17.661Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T11:20:05.290Z
 ---
 
 <details>
-<summary><strong>本文现在的版本是：1.0</strong><br/>点击展开，以查看更新日志。</summary>
+<summary><strong>本文现在的版本是：1.0.1</strong><br/>点击展开，以查看更新日志。</summary>
 （改正了存在但不影响意思表达的错字 不会记入更新日志，改错字只更新版本号。）
 
 2023.11.04  - 1.0.1 - 对于兴业的申请做了补充（如果已经有了银联一类卡，可能会申请失败）。
