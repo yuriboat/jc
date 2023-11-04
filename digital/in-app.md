@@ -2,7 +2,7 @@
 title: Google Play、App Store 游戏消费
 description: 
 published: true
-date: 2023-11-04T06:53:43.605Z
+date: 2023-11-04T06:55:39.545Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T13:28:47.323Z
@@ -29,3 +29,5 @@ SG
 IN  
 PH  
 AR
+
+港区app store可参考https://www.gakiyukr.net/archives/373
