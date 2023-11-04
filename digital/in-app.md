@@ -2,7 +2,7 @@
 title: Google Play、App Store 游戏消费
 description: 
 published: true
-date: 2023-11-04T06:55:39.545Z
+date: 2023-11-04T07:03:03.321Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T13:28:47.323Z
@@ -10,6 +10,12 @@ dateCreated: 2023-10-30T13:28:47.323Z
 
 # Google Play、App Store 游戏消费
 Your content here
+
+
+
+感谢[如何购买平价各地 Apple Gift Card | GAKIYUKR'S Blog](https://www.gakiyukr.net/archives/510)的整理。
+
+
  https://www.apple.com/国家代码/shop/buy-giftcard/giftcard  该国家代码为两位小写字母，与该国家/地区的顶级域名一致（日本除外，日本为 ja ）
  支持US  
 UK  
