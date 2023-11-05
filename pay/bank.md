@@ -2,7 +2,7 @@
 title: 用于线上国际支付的银行卡推荐及其办理方式
 description: 
 published: true
-date: 2023-11-04T18:09:43.130Z
+date: 2023-11-05T12:27:50.524Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T09:10:49.838Z
@@ -46,9 +46,9 @@ dateCreated: 2023-10-30T09:10:49.838Z
 
 大学生可以办理的0额度校园版的外标信用卡，目前只有工商银行的星座卡校园版。详见[介绍、办理与使用 - 工商银行星座卡校园版](/pay/icbc-credit-student)。
 
-
 有稳定工作的，很多银行都可以办，具体推荐可看「[外标信用卡介绍·推荐·办理·使用](/pay/credit-for-working-adults)」。
-
+> 「外标信用卡介绍·推荐·办理·使用」暂未编写完成，预计在11月中旬开放查阅。
+{.is-info}
 
 
 ## 外币储蓄卡（由中国大陆的银行发行，Visa、Mastercard）
