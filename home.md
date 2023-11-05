@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2023-11-05T13:01:50.085Z
+date: 2023-11-05T14:12:11.476Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T08:09:56.088Z
@@ -11,8 +11,9 @@ dateCreated: 2023-10-26T08:09:56.088Z
 > **「百合花船·教程」现已初步建成「海外支付方式」板块的教程，先行于其他板块正式开放。** 欢迎各位提出意见与建议。
 {.is-info}
 
-> **欢迎来到「百合花船·教程」。从下方点选教程，以开始你的「航行」！**
-> 如想为本站做贡献，可参考[「关于」的相关章节](https://jc.yuriboat.cn/about#%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E8%B4%A1%E7%8C%AE)。 // [本站的GitHub内容仓库](https://github.com/yuriboat/jc)
+> **欢迎来到「百合花船·教程」，为百合同好、也为了更多人的购买教程网站。
+> 从下方点选教程，以开始你的「航行」！**
+> **如想为本站做贡献**，可参考[「关于」的相关章节](https://jc.yuriboat.cn/about#%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E8%B4%A1%E7%8C%AE)。 [本站的GitHub内容仓库](https://github.com/yuriboat/jc)
 > **如需提问，** 可在「Yurier百合研」已入驻的平台@我们，或加入QQ交流群（914322538），或发邮件到jc.boat@yurier.net。
 {.is-success}
 
@@ -20,7 +21,7 @@ dateCreated: 2023-10-26T08:09:56.088Z
 {.links-list}
 - [「百合花船」企划官网 *了解「百合花船·教程」的母企划*](https://www.yuriboat.cn)
 ### Tabset {.tabset}
-#### 海外支付方式（先行开放中）
+#### **海外支付方式**（先行开放中）
 **什么都不了解，想要看推荐？从这里开始：[用于线上国际支付的银行卡推荐及其办理方式](/pay/bank)**
 **特定网站注意事项：[关于虎穴系网站](/pay/tora)**
 
