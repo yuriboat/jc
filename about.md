@@ -2,7 +2,7 @@
 title: 关于「百合花船·教程」& 如何支持
 description: 
 published: true
-date: 2023-10-31T08:33:11.956Z
+date: 2023-11-05T12:59:43.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T13:47:01.718Z
@@ -30,6 +30,7 @@ dateCreated: 2023-10-30T13:47:01.718Z
 
 
 ## 如何提交贡献
+本站的GitHub内容仓库：https://github.com/yuriboat/jc
 ### 在GitHub新建一个issue或在网站评论区留言（贡献字数较少时推荐）
 因为第二种方法需要基本学会使用GitHub，第三种是给长期贡献之同好用的（需要主编评估），对于普通同好来说有点复杂，所以小修小补可以直接在网站评论区留言，或者在GitHub提issue，我们会看。
 ### 在GitHub fork源文档并修改后，发起Pull Requests
