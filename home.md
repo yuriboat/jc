@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2023-11-05T12:54:10.372Z
+date: 2023-11-05T13:01:50.085Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T08:09:56.088Z
@@ -12,6 +12,7 @@ dateCreated: 2023-10-26T08:09:56.088Z
 {.is-info}
 
 > **欢迎来到「百合花船·教程」。从下方点选教程，以开始你的「航行」！**
+> 如想为本站做贡献，可参考[「关于」的相关章节](https://jc.yuriboat.cn/about#%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E8%B4%A1%E7%8C%AE)。 // [本站的GitHub内容仓库](https://github.com/yuriboat/jc)
 > **如需提问，** 可在「Yurier百合研」已入驻的平台@我们，或加入QQ交流群（914322538），或发邮件到jc.boat@yurier.net。
 {.is-success}
 
