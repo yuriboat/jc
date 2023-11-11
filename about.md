@@ -2,7 +2,7 @@
 title: 关于「百合花船·教程」& 如何支持
 description: 
 published: true
-date: 2023-11-11T16:28:11.409Z
+date: 2023-11-11T16:28:55.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T13:47:01.718Z
@@ -10,7 +10,7 @@ dateCreated: 2023-10-30T13:47:01.718Z
 
 # 关于「百合花船·教程」& 如何支持
 
-> 本页全页附带CC BY-SA-NC-ND 4.0协议。
+> 本页全页附带CC BY-NC-ND 4.0协议。
 > 「百合花船·教程」和「百合花船」（企划）是我们率先使用的命名，未经授权，不得冒用。
 {.is-info}
 
