@@ -2,7 +2,7 @@
 title: 介绍、办理与使用 - 中信银行Visa/万事达外币储蓄卡
 description: 
 published: true
-date: 2023-11-12T07:51:11.804Z
+date: 2023-11-12T07:51:28.619Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T17:21:08.362Z
@@ -13,7 +13,7 @@ dateCreated: 2023-10-31T17:21:08.362Z
 {.is-info}
 
 <details>
-<summary><strong>本文现在的版本是：1.1.1</strong><br/>点击展开，以查看更新日志。</summary>
+<summary><strong>本文现在的版本是：1.1.2</strong><br/>点击展开，以查看更新日志。</summary>
 （改正了存在但不影响意思表达的错字 不会记入更新日志，改错字只更新版本号。）
   
 2023.11.12  - 1.1.2 - 进一步强调了本卡的美元单币特性。
