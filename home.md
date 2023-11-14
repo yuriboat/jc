@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2023-11-10T12:43:54.447Z
+date: 2023-11-14T17:37:28.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-26T08:09:56.088Z
@@ -10,10 +10,10 @@ dateCreated: 2023-10-26T08:09:56.088Z
 
 > 建设中，仅开放部分内容。
 > 预计于2023年12月-2024年1月初步建成（主要为通用教程与日本向教程），建成后才正式开展广泛推广。
-{.is-warning}
+{.is-info}
 
 
-> **欢迎来到「百合花船·教程」，为百合同好、也为了更多人的购买教程网站。
+> **这里是「百合花船·教程」，献给百合爱好者的教程与指引之站。（同时，也献给ACGN中文圈。）
 > 从下方点选教程，以开始你的「航行」！**
 > **如想为本站做贡献**，可参考[「关于」的相关章节](https://jc.yuriboat.cn/about#%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E8%B4%A1%E7%8C%AE)。 [本站的GitHub内容仓库](https://github.com/yuriboat/jc)
 > **如需提问，** 可在「Yurier百合研」已入驻的平台@我们，或加入QQ交流群（914322538），或发邮件到jc.boat@yurier.net。
