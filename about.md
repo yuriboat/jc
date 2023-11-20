@@ -2,7 +2,7 @@
 title: 关于「百合花船·教程」& 如何支持
 description: 
 published: true
-date: 2023-11-16T16:30:32.235Z
+date: 2023-11-20T11:08:38.234Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T13:47:01.718Z
@@ -51,7 +51,7 @@ dateCreated: 2023-10-30T13:47:01.718Z
 
 ## 技术栈
 （不分先后，收录可能不完全）
-- Debian GNU/Linux
+- Ubuntu
 - Wiki.js
 - Git
 - Artalk
