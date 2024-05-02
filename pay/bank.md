@@ -2,7 +2,7 @@
 title: 用于线上国际支付的银行卡推荐及其办理方式
 description: 
 published: true
-date: 2024-05-02T07:54:09.203Z
+date: 2024-05-02T08:16:07.475Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T09:10:49.838Z
@@ -32,8 +32,7 @@ dateCreated: 2023-10-30T09:10:49.838Z
 >
 > 在中国大陆，我们一般会办到如下卡组织的卡片：银联/UnionPay 、Visa、Mastercard（万事达）、美国运通（American Express/AMEX）、JCB。（因发卡量少，不介绍Discover（含Diners Club International））
 而它们的最新版Logo如下图所示。有些地方可能还在用旧版Logo，或者用了最新版Logo的变体，这是正常的。
-> ![cardorg.png]
-(/pictures/pay/cardorg.png)
+> ![cardorg.png](/pictures/pay/cardorg.png)
 > 绝大部分商家支持Visa和Mastercard（或是至少其中一个），是否支持银联、JCB、运通等则依地区习惯和具体商家而定，线上商家接受的卡组织可以在商家网站看到。
 > 不过，部分商家因为认为卡组织的一些新要求不合理，会暂停与其合作。比如，DLsite在2024年4月宣布，暂停接受Visa卡、MasterCard卡、运通卡，海外可以直接使用的支付方式仅剩JCB卡，不过dlpay.com等Dlsite点数售卖点仍然接受Visa卡、MasterCard卡等作为支付方式。
 > 同时，部分商家由于各种原因，会进行「限区」，一般是白名单式限区，也就是限定只能刷某个地区的卡，比如App Store 日本区商店、骏河屋（日本站）等。不过，对于日本商家，可能可以使用JCB卡绕过（JCB卡的卡号没有地区代码）。
