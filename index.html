@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>「百合花船」现正迁移至新域名……</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+            position: relative;
+        }
+
+        .header {
+            background: linear-gradient(90deg, #6e8efb, #a777e3);
+            padding: 50px 40px;
+            text-align: center;
+            color: white;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .header::before {
+            content: "";
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 70%);
+            transform: rotate(30deg);
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            position: relative;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .subtitle {
+            font-size: 1.3rem;
+            font-weight: 300;
+            max-width: 600px;
+            margin: 0 auto;
+            opacity: 0.9;
+        }
+
+        .content {
+            padding: 50px 40px;
+            position: relative;
+        }
+
+        .text-section {
+            margin-bottom: 40px;
+        }
+
+        .text-section h2 {
+            color: #6e8efb;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+        }
+
+        .text-section h2 i {
+            margin-right: 15px;
+            background: linear-gradient(90deg, #6e8efb, #a777e3);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        .text-section p {
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+            color: #444;
+            line-height: 1.8;
+        }
+
+        .highlight {
+            background: linear-gradient(90deg, #a777e3, #6e8efb);
+            color: white;
+            padding: 3px 8px;
+            border-radius: 5px;
+        }
+
+        .decoration {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, rgba(110, 142, 251, 0.1), rgba(167, 119, 227, 0.1));
+            z-index: 0;
+        }
+
+        .decoration-1 {
+            top: -80px;
+            right: -80px;
+        }
+
+        .decoration-2 {
+            bottom: -100px;
+            left: -100px;
+            width: 300px;
+            height: 300px;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 30px;
+            background: #f8f9fa;
+            color: #6e8efb;
+            font-weight: 500;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+
+            .subtitle {
+                font-size: 1.1rem;
+            }
+
+            .content {
+                padding: 30px 20px;
+            }
+
+            .text-section h2 {
+                font-size: 1.5rem;
+            }
+
+            .text-section p {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>「百合花船」现正迁移至新域名……</h1>
+            <p class="subtitle">晚些时候就能重新见面！</p>
+        </div>
+
+        <div class="content">
+            <div class="text-section">
+                <h2><i class="fas fa-lightbulb"></i>关于「百合花船」企划迁移至新域名的通知</h2>
+                <p>由于各种原因，<span class="highlight">「yuriboat.cn」</span>域名已不再属于百合研社团。百合研社团正在将「百合花船」企划（包括「百合花船·教程」和「百合花船·特典搜索」）的网站服务迁移至<span class="highlight">「yuriboat.ink」</span>域名，预计在8月的晚些时候完成！</p>
+            </div>
+
+        <div class="decoration decoration-1"></div>
+        <div class="decoration decoration-2"></div>
+
+        <div class="footer">
+            <p>百合研社团技术组 · Yurier Dev</p>
+        </div>
+    </div>
+</body>
+</html>
