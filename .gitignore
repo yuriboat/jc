@@ -1,0 +1,15 @@
+node_modules/
+.vitepress/cache
+.vitepress/dist
+Alternative.gitignore
+
+base/
+digital/
+exp/
+infohow/
+logistics/
+physical/
+
+pictures/logistics/
+
+pay/credit-regular.md
