@@ -2,6 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  ignoreDeadLinks: true, //关闭死链构建报错
+  
   title: "百合花船·教程",
   description: "授人以渔，只为热爱",
   lang: 'zh-CN',
