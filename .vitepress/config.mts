@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
-
 // https://vitepress.dev/reference/site-config
+
+const cookieYesAccessibility = `<script>(function(w,d,s,u,o){w._cyA11yConfig={"iconId":"default","position":{"mobile":"bottom-right","desktop":"bottom-right"},"language":{"default":"zh","selected":[]},"modules":{"statement":{"enabled":false,"url":""}}};var js=d.createElement(s),fjs=d.getElementsByTagName(s)[0];js.src=u;js.async=true;fjs.parentNode.insertBefore(js,fjs);})(window,document,"script","https://cdn-cookieyes.com/widgets/accessibility.js?id=70fde21c-011c-4c89-a614-36cde84cf8ab");</script>`
 export default defineConfig({
   ignoreDeadLinks: true, //关闭死链构建报错
   
@@ -14,6 +15,7 @@ export default defineConfig({
       prev: false,
       next: false
     },
+	head: [cookieYesAccessibility],
     
     darkModeSwitchLabel: '浅色模式 / 深色模式',
     lightModeSwitchTitle: '切换到浅色模式',
